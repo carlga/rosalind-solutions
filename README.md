@@ -1,11 +1,12 @@
-<img src="https://img.shields.io/badge/Language-Perl-blue.svg" style="zoom:100%;" /> <img src="https://img.shields.io/badge/Language-Python-yellow.svg" style="zoom:100%;" /> <img src="https://img.shields.io/badge/Total_Solved-6-orange.svg" style="zoom:100%;" /> <img src="https://visitor-badge.glitch.me/badge?page_id=carlga.rosalind-solutions&right_color=red&left_text=Total%20Visits" alt="visitor badge"/>
+<img src="https://img.shields.io/badge/Language-Perl-blue.svg" style="zoom:100%;" /> <img src="https://img.shields.io/badge/Language-Python-yellow.svg" style="zoom:100%;" /> <img src="https://img.shields.io/badge/Total_Solved-6-brightgreen.svg" style="zoom:100%;" /> <img src="https://visitor-badge.glitch.me/badge?page_id=carlga.rosalind-solutions&right_color=red&left_text=Total%20Visits" alt="visitor badge"/>
 <img src="http://rosalind.info/static/img/logo.png?v=1560257990"  width=200 align="right">
 
 # Rosalind solutions
 
 > [Rosalind](http://rosalind.info/about/) is a platform for learning bioinformatics and programming through problem solving.
 > This is a collection of my perl and python solutions to the problems in the platform. 
-> Please, drop a :star: if this is helpful!
+> Kindly drop a :star: if this is helpful!
+
 
 ## Content
 
