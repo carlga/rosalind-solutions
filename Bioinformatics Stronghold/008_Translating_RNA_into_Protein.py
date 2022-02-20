@@ -16,7 +16,7 @@ def main():
     path = os.getcwd()  # or os.path.dirname('__file__')
     path = os.path.join(path, os.pardir, 'Resources', 'codon_table.txt')
     path = os.path.abspath(path)
-    codon_table = readDict('codon_table.txt')
+    codon_table = readDict(path)
     
     # Translate sequence
     print(translate(seq, codon_table))
