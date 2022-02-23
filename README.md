@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Language-Perl-blue.svg" style="zoom:100%;" /> <img src="https://img.shields.io/badge/Language-Python-yellow.svg" style="zoom:100%;" /> <img src="https://img.shields.io/badge/Total_Solved-17-brightgreen.svg" style="zoom:100%;" /> <img src="https://visitor-badge.glitch.me/badge?page_id=carlga.rosalind-solutions&right_color=red&left_text=Total%20Visits" alt="visitor badge"/>
+<img src="https://img.shields.io/badge/Language-Perl-blue.svg" style="zoom:100%;" /> <img src="https://img.shields.io/badge/Language-Python-yellow.svg" style="zoom:100%;" /> <img src="https://img.shields.io/badge/Total_Solved-18-brightgreen.svg" style="zoom:100%;" /> <img src="https://visitor-badge.glitch.me/badge?page_id=carlga.rosalind-solutions&right_color=red&left_text=Total%20Visits" alt="visitor badge"/>
 <img src="http://rosalind.info/static/img/logo.png?v=1560257990"  width=200 align="right">
 
 # Rosalind solutions
@@ -29,3 +29,4 @@
 | [Bioinformatics Stronghold](http://rosalind.info/problems/list-view/) | [Independent Alleles](https://rosalind.info/problems/lia/) | []() | [source](https://github.com/carlga/rosalind-solutions/blob/main/Bioinformatics%20Stronghold/015_Independent_Alleles.py) |
 | [Bioinformatics Stronghold](http://rosalind.info/problems/list-view/) | [Finding a Protein Motif](https://rosalind.info/problems/mprt/) | []() | [source](https://github.com/carlga/rosalind-solutions/blob/main/Bioinformatics%20Stronghold/016_Finding_a_Protein_Motif.py) |
 | [Bioinformatics Stronghold](http://rosalind.info/problems/list-view/) | [Inferring mRNA from Protein](https://rosalind.info/problems/mrna/) | []() | [source](https://github.com/carlga/rosalind-solutions/blob/main/Bioinformatics%20Stronghold/017_Inferring_mRNA_from_Protein.py) |
+| [Bioinformatics Stronghold](http://rosalind.info/problems/list-view/) | [Open Reading Frames](https://rosalind.info/problems/orf/) | [source](https://github.com/carlga/rosalind-solutions/blob/main/Bioinformatics%20Stronghold/018_Open_Reading_Frames.pl) | [source](https://github.com/carlga/rosalind-solutions/blob/main/Bioinformatics%20Stronghold/018_Open_Reading_Frames.py) |
